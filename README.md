@@ -24,3 +24,4 @@ This repository contains workshops and labs completed as part of the FreeCodeCam
 
 ## Source
 Curriculum provided by [FreeCodeCamp.org](https://www.freecodecamp.org)
+
