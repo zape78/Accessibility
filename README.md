@@ -19,6 +19,8 @@ This repository contains workshops and labs completed as part of the FreeCodeCam
 
 ## Notes
 
+- Accessibility in web development is making websites that everyone can understand and interact with, including people with visual, auditory, motor, and cognitive disabilities.
+
 
 ## Source
 Curriculum provided by [FreeCodeCamp.org](https://www.freecodecamp.org)
