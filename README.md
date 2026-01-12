@@ -14,6 +14,7 @@ This repository contains workshops and labs completed as part of the FreeCodeCam
 ### Workshops
 
 - Debug Coding Journey Blog Page (1/09/2026)
+- Tech Conference Schedule Table (1/11/2026)
 
 ### Labs
 <!-- FCC labs will be listed here -->
