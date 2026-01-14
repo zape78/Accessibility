@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Donation Form</title>
+</head>
+<body>
+  <h1>Donation Form</h1>
+  <form>
+    
+    Full Name:
+    <input type="text" name="name"></input>
+
+    Email Address:
+    <input type="text" name="email">
+
+    Donation Amount ($):
+    <input type="number" name="amount"></input>
+
+    <input type="checkbox" name="newsletter"></input>
+    Subscribe
+
+    <input type="submit" value="Send"></input>
+  </form>
+</body>
+</html>
