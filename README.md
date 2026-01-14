@@ -17,7 +17,8 @@ This repository contains workshops and labs completed as part of the FreeCodeCam
 - Tech Conference Schedule Table (1/11/2026)
 
 ### Labs
-<!-- FCC labs will be listed here -->
+
+- Debug Donation Form (1/13/2026)
 
 ## Notes
 
